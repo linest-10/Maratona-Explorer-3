@@ -5,7 +5,7 @@
 Um projeto desenvolvido durante o evento
 <b>Maratona Explorer</b> da Rocketseat.
 
-[Clique aqui para acessar](file:///C:/Users/Aline/maratona%20rocket/index.html)
+[Clique aqui para acessar](https://linest-10.github.io/Maratona-Explorer-3/)
 
 ## <b>Meu aprendizado</b>
 
